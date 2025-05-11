@@ -2,16 +2,15 @@
 
 A sleek and customizable **"Coming Soon"** webpage template designed to build anticipation for your upcoming product, service, or website launch. This responsive, modern design includes a live countdown timer, email subscription form, and social media links — everything you need to make a great first impression.
 
+![Preview](image/preview.png)
+
 ## ✨ Features
-
-- ⏳ Animated countdown timer
-- 📩 Email subscription input
-- 🌐 Social media icon links
-- 🎨 Fully responsive & mobile-friendly
-- 🌌 Smooth background animation
-- 🧩 Easy to customize styles and text
-
-## 📂 Project Structure
+- ⏳ Countdown Timer
+- 📱 Fully Responsive Design
+- 🌫️ Background Effects (Clouds/Video)
+- 📬 Email Subscription
+- 🎵 Background Music (optional)
+- 🌐 Social Media Links
 
 ```bash
 coming_soon/
