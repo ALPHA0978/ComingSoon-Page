@@ -11,6 +11,7 @@ A sleek and customizable **"Coming Soon"** webpage template designed to build an
 - 📬 Email Subscription
 - 🎵 Background Music (optional)
 - 🌐 Social Media Links
+- 
 
 ```bash
 coming_soon/
